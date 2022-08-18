@@ -1,7 +1,7 @@
 # Simulating digital dice
 
 
-Can two wrongs be right? The plot below is a demonstration of how two stochastic processes have negative drifts separately but a random combination of those two leads to drift which is positive! This is known as [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox).
+Can two wrongs be right? The plot below is a demonstration of how two stochastic processes have negative drifts separately, but a random combination of those two leads to a drift which is positive! This is known as [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox).
 
 ![image](https://user-images.githubusercontent.com/30939351/185399330-39b959cb-53a4-4b7b-afd7-cdd02ef75cbe.png)
 
