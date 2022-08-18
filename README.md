@@ -10,7 +10,7 @@ This GitHub repository contain Monte Carlo simulations resulting in above plot a
 
 The large part of the book is available on [Google Books](https://books.google.ch/books?id=bmhuaGP3FOEC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false). The text descriptions of the problems in the Jupyter notebooks are directly taken from the book and often modified slightly to keep them concise. 
 
-Much of the heavylifting in the codes provided here is performed by NumPy's random module. One of the notebooks uses Pandas to organize the outputs. The plots are done using Matplotlib. Finally, since some Monte Carlo simulations take numerous iterations to converge, we utilize a progress-bar to keep track of the loop index. This is done using [tqdm](https://github.com/tqdm/tqdm). Please ensure you have these packages before running the Jupyter notebooks here.
+Much of the heavylifting in the codes provided here is performed by NumPy's random module. One of the notebooks uses Pandas to organize the outputs. The plots are done using Matplotlib. Finally, since some Monte Carlo simulations take numerous iterations to converge, we utilize a progress-bar to keep track of the loop index. This is done using the slick [**tqdm**](https://github.com/tqdm/tqdm) package. Please ensure you have these packages installed before running the Jupyter notebooks here.
 
 Installation instructions for tqdm can be found [here](https://github.com/tqdm/tqdm#installation). 
 
