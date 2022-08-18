@@ -16,5 +16,7 @@ Installation instructions for tqdm can be found [here](https://github.com/tqdm/t
 
 
 
-![](https://pup-assets.imgix.net/onix/images/9780691158211.jpg)
+![](https://pup-assets.imgix.net/onix/images/9780691158211.jpg)   ![image](https://user-images.githubusercontent.com/30939351/185487277-baadce23-fc9b-4abf-b18c-4855c366a3a1.png)
 
+
+(Right: Cropped image from the statue of [_Secretion-Urge_](https://www.bonhams.com/auctions/16260/lot/39/#:~:text='Secretion%20(Urge)'%20is,bestow%20it%20with%20tactile%20qualities.) by Tony Cragg.)
